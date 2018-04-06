@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">home_page</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_content">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin consectetur diam id aliquam scelerisque. Donec ultrices lacus vel </string>
+    <string name="user_name">Pawan Deshpnde</string>
+    <string name="para">The Taj Mahal (/ˌtɑːdʒ məˈhɑːl, ˌtɑːʒ-/;[3] meaning Crown of the Palace[4]) is an ivory-white marble mausoleum on the south bank of the Yamuna river in the Indian city of Agra. It was commissioned in 1632 by the Mughal emperor, Shah Jahan (reigned from 1628 to 1658), to house the tomb of his favourite wife, Mumtaz Mahal. The tomb is the centrepiece of a 17-hectare (42-acre)[5] complex, which includes a mosque and a guest house, and is set in formal gardens bounded on three sides by a crenellated wall.
+
+Construction of the mausoleum was essentially completed in 1643 but work continued on other phases of the project for another 10 years. The Taj Mahal complex is believed to have been completed in its entirety in 1653 at a cost estimated at the time to be around 32 million rupees, which in 2015 would be approximately 52.8 billion rupees (U.S. $827 million).</string>
+</resources>
